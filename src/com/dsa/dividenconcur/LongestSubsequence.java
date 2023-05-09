@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.dividenconcur;
 import java.util.*;
 
 // Given an array a[] find the length of longest subsequence
